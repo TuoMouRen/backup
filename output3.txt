@@ -1,0 +1,20 @@
+Booking 1 A1-A3
+Booking 2 A4-A6
+Booking 3 A7-A9
+Cancel 2
+Booking 4 A4
+movie1
+A: 1-3,4,7-9
+Change 2 A1-A10
+Booking 5 A11
+Booking 6 A12
+Booking 7 A13
+Booking 8 A14
+movie2
+A: 1-10,11,12,13,14
+Booking 9 X1-X15
+Booking 10 X16-X25
+Cancel 9
+movie2
+A: 1-10,11,12,13,14
+X: 16-24
